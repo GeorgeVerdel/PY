@@ -1,1 +1,1 @@
-echo "Mijn eerste Python project"
+Eigen Python repo
